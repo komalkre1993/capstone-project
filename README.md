@@ -1,1 +1,1 @@
-# komal-portfolio
+# capstone-project
